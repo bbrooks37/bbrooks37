@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences I am learning everyday [https://www.flipsnack.com/AC7CB59BDC9/software-resume-bb/full-view.html](https://www.flipsnack.com/AC7CB59BDC9/software-resume-bb/full-view.html)
 
-- ⚡ Fun fact: God is Great **Learning is fun**
+- ⚡ Fun fact: God is Great; **Learning is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
