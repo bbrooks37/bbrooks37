@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Brooks</h1>
 <h3 align="center">A passionate Full-Stack developer from USA</h3>
 
-- 🔭 I’m currently working on a File Explore Cleaner to eliminate unnecessary storage.
+- 🔭 I’m currently working on a File Explore Cleaner to eliminate unnecessary storage [Duplicate_Cleaner](https://github.com/bbrooks37/Duplicate_Cleaner.git)
 
 - 👯 I’m looking to collaborate on creating API's from scratch [my face recognition app](https://github.com/bbrooks37/my_face_recognition_app.git)
 
