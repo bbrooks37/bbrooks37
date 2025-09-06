@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything - Iron sharpens Iron **Python, React & Typescript**
 
-- 📫 How to reach me brandon37.brooks@gmail.com **brandon37.brooks@gmail.com**
+- 📫 How to reach me brandon37.brooks@gmail.com 
 
 - 📄 Know about my experiences I am learning everyday [https://www.flipsnack.com/AC7CB59BDC9/software-resume-bb/full-view.html](https://www.flipsnack.com/AC7CB59BDC9/software-resume-bb/full-view.html)
 
